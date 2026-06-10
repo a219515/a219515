@@ -1,7 +1,7 @@
 # Hi there, I'm Maizatie 👋 
 
 ### 🚀 Aspiring Software Engineer & Creative Tech Enthusiast
-I am a Computer Science / Information Technology student passionate about building efficient, clean code and combining it with impactful visual design. I love bridging the gap between robust backend logic and user-centric experiences.
+I am a Computer Science student passionate about building efficient, clean code and combining it with impactful visual design. I love bridging the gap between robust backend logic and user-centric experiences.
 
 ---
 
